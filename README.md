@@ -29,7 +29,7 @@ The program:
 ### 1️⃣ Clone or Download the Project
 
 ```bash
-git clone https://github.com/yourusername/license-plate-detection.git
+git clone https://github.com/Himanshuagrawal2003/License-Plate-Detection.git
 cd license-plate-detection
 ```
 
