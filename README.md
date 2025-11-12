@@ -1,4 +1,4 @@
-# 🚗 License Plate Detection using OpenCV and Tesseract OCR
+# License Plate Detection using OpenCV and Tesseract OCR
 
 This project detects and reads vehicle license plate numbers from an image using **OpenCV** for image processing and **Tesseract OCR** for text recognition.
 
